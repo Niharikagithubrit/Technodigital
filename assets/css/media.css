@@ -1,0 +1,519 @@
+@media only screen and (max-width: 480px) {
+    .container {
+        width: 100% !important;
+    }
+
+    .discover-techno {
+        padding: 21px 0px 200px;
+    }
+
+    .techno_heading h4 {
+        font-size: 14px;
+    }
+
+    .logo img {
+        width: 68%;
+    }
+
+    .discover_butn {
+        margin-top: 10px;
+    }
+
+    .techno_heading p {
+        font-size: 12px;
+        color: white;
+    }
+
+    .techno_video p {
+        font-size: 12px;
+    }
+
+    .techno_button button.btn {
+        padding: 3px 28px;
+        font-size: 9px;
+    }
+
+    .techno_button button.btn span.free {
+        font-size: 14px;
+    }
+
+    .techno_button span.divide::after {
+        content: '';
+        position: absolute;
+        background: black;
+        width: 100%;
+        height: 2px;
+        left: 0px;
+        transform: rotate(160deg);
+        top: 4px;
+    }
+
+    .time p {
+        margin: 0px !important;
+        font-size: 9px !important;
+    }
+
+    .time p:after {
+        width: 100%;
+        top: 16px;
+    }
+
+    .techno_img {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .time h6 {
+        font-size: 11px;
+    }
+
+    .news-head img {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .news-head h6::before {
+        width: 23% !important;
+    }
+
+    .news-head h6::after {
+        width: 23% !important;
+    }
+
+    .head-slider h1 {
+        font-size: 26px;
+    }
+
+    .sliders-wrapper {
+        padding: 7px 0px 30px 0px;
+    }
+
+    .head-slider p {
+        margin: 10px 0px;
+    }
+
+    .slide-1 {
+        margin-top: 18px;
+    }
+
+    .slide-content h3 {
+        font-size: 14px;
+    }
+
+    .slide-content p {
+        font-size: 12px;
+    }
+
+    .slide-icon a {
+        padding: 10px 5px;
+        margin-left: 0px;
+        border-radius: 46px;
+    }
+
+    .head-slider p {
+        font-size: 13px;
+    }
+
+    .slide-icon i {
+        width: 27px;
+        height: 27px;
+        line-height: 27px;
+    }
+
+    .card-wrapper {
+        padding: 23px 0px;
+        margin-top: 0px;
+    }
+
+    .card-1 {
+        margin-left: 0px;
+    }
+
+    .card-2 {
+        margin-top: 11px;
+        margin-left: 40px;
+    }
+
+    .last-card {
+        margin-top: 5px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .last-card-1 p {
+        font-size: 12px;
+    }
+
+    .last-cards img {
+        float: left;
+        margin-top: 0px;
+    }
+
+    .last-cards {
+        margin-left: 0px;
+    }
+
+    .card-21 {
+        margin-top: 54px;
+        text-align: center;
+    }
+
+    img.img-card-2 {
+        left: -50px;
+    }
+
+    .card-wrapper img {
+        width: 75%;
+        margin-left: 50px;
+    }
+
+    .cardn-1 {
+        margin-top: 50px;
+        word-spacing: 0px;
+        letter-spacing: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .lasted-card-1 p {
+        font-size: 12px;
+    }
+
+    .footer-wrapper {
+        text-align: center;
+        padding: 54px 0px 20px 0px;
+    }
+
+    h6.footer-head::after {
+        display: none;
+    }
+
+    .footer-icon ul {
+        align-items: center;
+        justify-content: center;
+        margin-left: 0px;
+    }
+
+    h6.footer-head {
+        font-size: 14px;
+    }
+
+    .footer-copy {
+        text-align: center;
+    }
+
+    .bord-last {
+        padding: 7px;
+        margin: 0px 83px !important;
+    }
+
+    .bords {
+        margin-right: 0px;
+    }
+
+    .buttn-sections {
+        margin: 43px 0px 0px 0px;
+    }
+
+    .last-count h2 {
+        margin-bottom: 32px;
+        word-spacing: 0px;
+        font-size: 18px;
+        letter-spacing: 0px;
+    }
+
+    .last-count {
+        margin-top: 0px;
+        padding: 52px 0px;
+    }
+
+    .bord-last {
+        display: block;
+    }
+
+    .bords h1 {
+        font-size: 33px;
+    }
+
+    button.btn {
+        padding: 7px 18px;
+        font-size: 14px;
+        border: 7px solid #5d439c;
+    }
+
+    img.img-card {
+        margin-bottom: 18px;
+        margin-left: 165px !important;
+    }
+
+    .cloud-wrapper img {
+        height: 66px;
+    }
+
+    .third-section {
+        padding: 15px 0px 300px 0px;
+    }
+
+    .thi-sec {
+        height: 400px;
+    }
+
+    .appoin-image img {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .appoin-contents {
+        padding-right: 0px;
+    }
+
+    h2.head-app {
+        right: -2px;
+        color: #80808091;
+        font-size: 28px;
+    }
+
+    .app-sec {
+        padding: 12px 7px;
+        border-radius: 9px;
+        margin-top: 20px;
+        border: 10px solid transparent;
+    }
+
+    .app-cont-head h1 {
+        word-spacing: 0px;
+        font-size: 12px;
+        margin-bottom: 15px;
+        letter-spacing: 0px;
+    }
+
+    .app-para i {
+        margin-right: 4px;
+        margin-left: 3px;
+    }
+
+    .app-para p {
+        font-size: 10px;
+    }
+
+    .thi-sec .buttn-sections {
+        text-align: center;
+    }
+
+    .thi-sec button.btn {
+        margin-left: 0px;
+    }
+
+    .second-last-wrapper {
+        padding: 0px 0px 33px 0px !important;
+    }
+
+    .sec-last {
+        border: unset;
+        transform: unset;
+    }
+
+    .sec-lasts {
+        border: unset;
+        transform: unset;
+        padding: 43px 0px !important;
+    }
+
+    .sec-last-head {
+        padding: 0px 0px;
+        text-align: center;
+        position: unset;
+    }
+
+    .sec-last-1 {
+        border: unset;
+        transform: unset;
+    }
+
+    .sec-last .buttn-sections {
+        margin-top: 0px;
+        left: 0px;
+        bottom: 17px;
+    }
+
+    button.btn span.free {
+        font-size: 21px;
+    }
+
+    .service-section-button {
+        padding: 0px 0px 20px 0px !important;
+    }
+
+    .service-section-button button.btn {
+        border-radius: 11px;
+    }
+
+    .appoin-image {
+        text-align: center;
+    }
+
+    .seco-tan-wrapper {
+        padding: 0px 0px 49px 0px;
+    }
+
+    img.service-image {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .tan-1 {
+        padding: 74px 25px 34px;
+        height: auto;
+    }
+
+    .tan-2 {
+        border: 14px solid #6e54a361;
+        padding: 31px 14px;
+    }
+
+    .r-tan {
+        margin-top: 14px;
+        margin-bottom: 14px;
+        padding: 20;
+    }
+
+    .r-tan h1 {
+        font-size: 1.2rem;
+    }
+
+    .r-tan h3 {
+        font-size: 14px;
+    }
+
+    .r-tan p {
+        font-size: 12px;
+    }
+
+    .r-tan a {
+        font-size: 10px;
+    }
+
+    .last-wrapper .row::after {
+        display: none;
+    }
+
+    .last-count .buttn-sections {
+        margin-bottom: 16px;
+    }
+
+    .services h5 {
+        font-size: 18px;
+    }
+
+    .services h5.h5:after {
+        width: 14%;
+        left: 43%;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100% !important;
+    }
+
+    .appoin-contents {
+        padding-right: 0px;
+    }
+
+    .thi-sec button.btn {
+        font-size: 15px;
+    }
+
+    button.btn span.free {
+        font-size: 16px;
+    }
+
+    .news-head h6::before {
+        width: 38%;
+    }
+
+    .news-head h6::after {
+        width: 38%;
+    }
+
+    .service-section-button {
+        padding: 107px 0px 60px 0px;
+    }
+
+    .thi-sec {
+        height: 362px;
+    }
+
+    .app-cont-head h1 {
+        font-size: 18px;
+    }
+
+    .sec-last {
+        border: unset;
+        transform: unset;
+    }
+
+    .sec-lasts {
+        border: unset;
+        transform: unset;
+    }
+
+    .sec-last-1 {
+        transform: unset;
+    }
+
+
+    h2.head-app {
+        right: 7px;
+        font-size: 23px;
+    }
+
+    .app-para p {
+        font-size: 7px;
+    }
+
+    .second-last-wrapper {
+        padding: 10px 0px 85px;
+    }
+
+    .last-count h2 {
+        font-size: 25px;
+    }
+
+    .sec-last .buttn-sections {
+        text-align: center;
+        position: unset;
+    }
+
+    .bord-last {
+        margin: 0px;
+    }
+
+    .tan-1 {
+        padding: 44px;
+    }
+
+    img.service-image {
+        width: 100%;
+    }
+
+    .last-wrapper .row::after {
+        margin-top: 656px;
+    }
+
+    img.img-card {
+        margin-bottom: 11px;
+        margin-left: 190px;
+    }
+
+    .last-cards img {
+        margin-top: 3px;
+    }
+
+    .footer-icon li {
+        margin-right: 7px;
+    }
+}
